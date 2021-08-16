@@ -18,9 +18,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/the_macson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="the_macson" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mukesh-kumar-macson/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mukesh-kumar-macson/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mukesh-kumar-macson/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mukesh-kumar-macson/" height="30" width="40" /></a>
 <a href="https://instagram.com/the_macson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the_macson" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://youtube.com/channel/ucplpy8pqrtit0xlsowckz3a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/channel/ucplpy8pqrtit0xlsowckz3a" height="30" width="40" /></a>
+<a href="https://youtube.com/channel/ucplpy8pqrtit0xlsowckz3a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/channel/ucplpy8pqrtit0xlsowckz3a" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/the_macson" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="the_macson" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/themacson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="themacson" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/themacson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="themacson" height="30" width="40" /></a>
@@ -34,16 +34,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=the-macson&show_icons=true&locale=en" alt="the-macson" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=the-macson&" alt="the-macson" /></p>
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -79,4 +69,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- -->
+
