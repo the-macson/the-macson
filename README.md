@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mukesh Kumar</h1>
-<h3 align="center">I am a Full Stack Web developer and Currently Doing CSE Hons. and Enthusiasts in open source contributions</h3>
+<h3 align="center">I am a Full Stack Web developer and currently doing CSE Hons. and Enthusiasts in open source contributions</h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=the-macson&label=Profile%20views&color=0e75b6&style=flat" alt="the-macson" /> </p> -->
 
