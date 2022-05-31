@@ -1,3 +1,4 @@
+<!--START_SECTION:activity-->
 <h1 align="center">Hi 👋, I'm Mukesh Kumar</h1>
 <h3 align="center">I am a Full Stack Web developer and currently doing CSE Hons. and Enthusiasts in open source contributions</h3>
 
