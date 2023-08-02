@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **MERN and DevOps**
 
-- 💬 Ask me about **C++ and web development**
+- 💬 Ask me about **mobile and web development**
 
 - 📫 How to reach me **mukeshkumar27b@gmail.com**
 
