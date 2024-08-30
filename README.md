@@ -10,13 +10,13 @@
 
 <!-- <p align="left"> <a href="https://twitter.com/the_macson" target="blank"><img src="https://img.shields.io/twitter/follow/the_macson?logo=twitter&style=for-the-badge" alt="the_macson" /></a> </p>  --> <!--  -->
 
-- 🌱 I’m currently learning **MERN and DevOps**
+- 🌱 I’m currently learning **Cloud**
 
 - 💬 Ask me about **mobile and web development**
 
 - 📫 How to reach me **mukeshkumar27b@gmail.com**
 
-- ⚡ Fun fact **I think I am funny XD**
+<!-- - ⚡ Fun fact **I think I am funny XD -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
